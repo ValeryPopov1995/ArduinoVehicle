@@ -1,0 +1,8 @@
+rx
+
+#define motor1in 2
+#define motor1pwm 5
+#define motor2in 4
+#define motor2pwm 6
+#define fpvYpin 3
+led 7
